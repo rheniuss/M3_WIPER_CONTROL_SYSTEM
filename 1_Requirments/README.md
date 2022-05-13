@@ -46,14 +46,14 @@ The STM32F407G-DISC1 is a Discovery Kit allows users to easily develop applicati
 
 
  ## 4 W'S
-#### WHAT IS WIPER SYSTEM
+#### WHAT 
   * Windscreen wipers are necessary for maintaining sufficient view for the driver, especially in modern high-speed cars.
-#### WHY WIPER SYSTEM
+#### WHY 
   * To keep the windscreen clean enough to give adequate view at all times.
-#### WHEN SHOULD USE WIPER SYSTEM 
+#### WHEN 
   * The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
-#### WHO DISCOVERED WIPER SYSTEM
- * Mark Anderson invented on 1902
+#### WHO 
+ * Mark Anderson invented on the year 1902.
 # SWOT Analysis 
 ## Strength
 * Visibility
@@ -65,7 +65,8 @@ The STM32F407G-DISC1 is a Discovery Kit allows users to easily develop applicati
 * Not automatic
 
 ## Opportunities
-* Rain sensing and automatic operation can be implemented as further enhancement.
+* Rain sensing 
+* Automatic operation can be implemented as further enhancement.
 
 
 ## Threats 
