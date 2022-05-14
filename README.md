@@ -7,6 +7,7 @@ This Wiper Speed Control System is utilised in all sorts of automobiles, and its
 
 ## BADGES :
 ### Codiga
+https://api.codiga.io/project/33453/score/svg
 
 ### Codacy
 
