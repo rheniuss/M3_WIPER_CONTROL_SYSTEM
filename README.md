@@ -6,10 +6,14 @@ Wiper system is the utility project. It is used to clean the wind shield of the 
 This Wiper Speed Control System is utilised in all sorts of automobiles, and its primary function is to remove rain air drops from the vehicle's front screen. Because driving a vehicle in the rain is quite difficult, we will use wipers to clear the front screen of the vehicle, which is a mirror, so that we may drive the vehicle even in the rain.
 
 ## BADGES :
-### Codiga
-https://api.codiga.io/project/33453/score/svg
+### Codiga 
+
+* Codiga - Static Code Analysis ![Codiga badge](https://api.codiga.io/project/33453/score/svg)
+* Codiga - Code Grade Analysis ![Codiga badge](https://api.codiga.io/project/33453/status/svg)
 
 ### Codacy
+##   Badges
+* Codacy - Static Code Analysis [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d0ff9ae81f744c9a9e21e58e53d97b68)](https://www.codacy.com/gh/rheniuss/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rheniuss/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
 
 ### CppCheck Analysis
 
